@@ -31,3 +31,6 @@ indent(note)
 dump(note)
 
 ElementTree(note).write("note.xml")
+
+
+print('test')
